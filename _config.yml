@@ -16,9 +16,6 @@ author: Tejaswi Kumar Naman
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -39,12 +36,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "tejaswikumarnaman@gmail.com"
+  facebook: namansingh
+  github: tejaswi004
+  twitter: tejaswikumarnaman
+  instagram: "tejaswi_kumar_naman"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
